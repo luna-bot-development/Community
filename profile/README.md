@@ -1,4 +1,5 @@
 # Luna Bot - Community Repository
+![Community Banner](https://i.imgur.com/0OXcUmf.png)
 Welcome to Luna's community repository! This repository is a space for all users to engage with the development team. We encourage community involvement and are excited to collaborate with you.
 
 ## Table of Contents
